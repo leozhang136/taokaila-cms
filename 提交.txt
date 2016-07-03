@@ -1,0 +1,6 @@
+也可以不登陆远程直接本地操作
+1. git init
+2. git add .
+3. git commit -am "###"      -------以上3步只是本地提交
+4.git remote add origin https://github.com/leozhang136/taokaila-cms.git
+5.git push origin 本地分支:远程分支
